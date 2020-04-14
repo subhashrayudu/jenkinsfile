@@ -17,4 +17,4 @@ node {
 	  stage('Deploy') {
 		sh 'mvn deploy'
 		 }
-	}
+}
